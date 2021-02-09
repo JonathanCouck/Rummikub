@@ -1,3 +1,0 @@
-# Rummikub
-
-Jokicker
